@@ -1,0 +1,12 @@
+Revisión del ayudante:
+
+Documentación (30%):	100
+Ejecución P1 (35%):		90
+Ejecución P2 (35%):		50
+-----------------------------
+Total:					79
+
+Comentarios: El código se encuentra bien estructurado, gracias a los comentarios es posible determinar qué hace cada sección.
+En la parte de listar los archivos con tildes y espacios el código funciona bien, a excepción de que si el nombre de la carpeta puesta como parámetro tiene un espacio.
+En la segunda parte, al reemplazar los archivos con tildes y espacios, el código funciona bien para los archivos con tildes y "eñe"s. Sin embargo si se detecta un archivo con un espacio
+en el nombre, este espacio no se reemplaza y arroja un error de sintaxis.
